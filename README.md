@@ -1,6 +1,8 @@
 # Depression-study
 The code and the data for 'Effects of depression on prefrontal–striatal goal-directed and habitual control' are available.
 
+[![DOI](https://zenodo.org/badge/146625668.svg)](https://zenodo.org/badge/latestdoi/146625668)
+
 Published: May 14, 2021
 
 Heo, Suyeon, Yoondo Sung, and Sang Wan Lee. "Effects of subclinical depression on prefrontal–striatal model-based and model-free learning." PLoS computational biology 17.5 (2021): e1009003.
